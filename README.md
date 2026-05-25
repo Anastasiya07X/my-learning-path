@@ -1,1 +1,2 @@
-"My Learning Path: 300 дней до первой работы в DE/ML"
+"My Learning Path: 300 days until my first offer in DE;
+
